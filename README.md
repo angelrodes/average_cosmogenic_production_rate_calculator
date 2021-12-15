@@ -21,6 +21,8 @@ The generated production rate data can be used in any model based on [Lal's form
 3. Input your latitude (decimal degrees), elevation (m above sea level), nuclide data, and calculated data (Exposure age in years or erosion rate in m/Ma) in the Average cosmogenic production rate calculator spreadsheet, tab "Calculator". Remember to input the **external uncertainty** of your data, as this will be used to calculate the uncertainty of the spallation production rate. If you input the internal uncertainty, a minimum of 1% uncertainty will be considered.
 4. Copy the production data and use it in your model.
 
+If you find any bug, please [contact me](https://angelrodes.wordpress.com/contact/)!
+
 # Citation
 
 The systematics of this calculator are described in:
