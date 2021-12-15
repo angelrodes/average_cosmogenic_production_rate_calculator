@@ -28,3 +28,5 @@ If you find any bug, please [contact me](https://angelrodes.wordpress.com/contac
 The systematics of this calculator are described in:
 
 **Rodés, Á.** (2021) "The NUNAtak Ice Thinning (NUNAIT) Calculator for Cosmonuclide Elevation Profiles" *Geosciences* 11, no. 9: 362. doi:[10.3390/geosciences11090362](https://doi.org/10.3390/geosciences11090362 )
+
+<!-- The file is protected by the main surface production process :) -->
