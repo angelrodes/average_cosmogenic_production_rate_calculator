@@ -23,6 +23,10 @@ The generated production rate data can be used in any model based on [Lal's form
 
 If you find any bug, please [contact me](https://angelrodes.wordpress.com/contact/)!
 
+# Update (2023)
+
+The file [Average_cosmo_prodution_and_cross_section.xlsx](https://github.com/angelrodes/average_cosmogenic_production_rate_calculator/blob/main/Average_cosmo_prodution_and_cross_section.xlsx?raw=true) has an extra tab "Cross section" that calculates the production rates for different depths.
+
 # Citation
 
 The systematics of this calculator are described in:
